@@ -211,8 +211,8 @@ const genEmail = length =>
   });
 
 const domain = [
-  "todayemail.ga", "edu.creo.site", "50sale.edu.vn", "aiot.aiphone.eu.org", "edu.dmtc.press", "pengangguran.me",
-	"inibuatsgb.tk", "inibuatsgb.gq", "inibuatsgb.ga", "inibuatsgb.ml", "inibuatsgb.cf"
+  "todayemail.ga", "50sale.edu.vn", "aiot.aiphone.eu.org", "edu.dmtc.press", "pengangguran.me", 
+	"41054733.mail-temp.com", "derbydales.co.uk"
 ];
 (async () => {
   try {
